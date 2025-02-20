@@ -5,7 +5,7 @@ import requests
 import shutil
 
 # Replace with your Gemini API key
-GEMINI_API_KEY = "AIzaSyASQw7iSA2CZr0ypk9WKE6VTAB0TiAWqc8"
+GEMINI_API_KEY = "MY_API_KEY"
 
 # Configure API key
 genai.configure(api_key=GEMINI_API_KEY)
