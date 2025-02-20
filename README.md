@@ -1,4 +1,4 @@
-# Interiorismo - AI-Powered Interior Design App
+# Interiorismo - AI-Powered Interior Design App by FeelHome (Team: Techies)
 
 *Interiorismo* is a mobile application that revolutionizes interior design by leveraging the power of Artificial Intelligence. It provides users with an intuitive and engaging way to design their dream homes, regardless of their design expertise.
 
@@ -18,4 +18,5 @@ This project aims to create a user-friendly app that simplifies the often comple
 
 ## Note
 The front end of the app is under development, with a completed no-code UI on Figma, and a backend with python and Gemini Flash 1.5 for image generation (Imagen). Further automation and database retrieval can be created over a longer time frame and we will implement it shortly.
+
 
