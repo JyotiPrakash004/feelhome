@@ -19,4 +19,11 @@ This project aims to create a user-friendly app that simplifies the often comple
 ## Note
 The front end of the app is under development, with a completed no-code UI on Figma, and a backend with python and Gemini Flash 1.5 for image generation (Imagen). Further automation and database retrieval can be created over a longer time frame and we will implement it shortly.
 
+## Prototype
+https://www.figma.com/proto/zkbx4wh1dRU9UX3x2ZNBj2/Interiorismo?node-id=1-2&t=qQomVzgKuQn1J6k6-1
+
+##Figma
+https://www.figma.com/design/zkbx4wh1dRU9UX3x2ZNBj2/Interiorismo?node-id=1-2&t=qQomVzgKuQn1J6k6-1
+
+
 
